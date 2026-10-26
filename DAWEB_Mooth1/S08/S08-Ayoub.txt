@@ -1,0 +1,6 @@
+Servicio: active
+Navegador: Apache2 Ubuntu Default Page 
+HTTP: 200
+Version: Apache/2.4.58 (Ubuntu)
+Respuesta final: Apache esta instalado dentro de Ubuntu   
+

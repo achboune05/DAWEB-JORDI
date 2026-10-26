@@ -1,0 +1,4 @@
+S12 - Ayoub
+Paré Apache: salía inactive y curl daba "Failed to connect", sin ningún código.
+Lo volví a arrancar y otra vez active y 200. La web seguía igual.
+Respuesta: Con un 404 el servidor contesta. Con connection refused no contesta nadie.

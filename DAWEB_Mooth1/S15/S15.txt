@@ -1,0 +1,10 @@
+S15 - Ayoub
+Objetivo: crear la web alpha.test.
+Archivo: /etc/apache2/sites-available/alpha.conf
+ServerName: alpha.test
+DocumentRoot: /var/www/alpha
+Pasos: guardar -> a2ensite -> a2dissite 000-default -> configtest -> reload.
+configtest: Syntax OK
+curl con Host alpha.test: 200 y mi página Island portal.
+apache2ctl -S: aparece alpha.test en el puerto 80.
+Respuesta final: Syntax OK.

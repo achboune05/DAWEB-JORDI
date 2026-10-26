@@ -1,0 +1,7 @@
+S18 - Ayoub
+Objetivo: arreglar un error de configuración sin adivinar.
+Síntoma: configtest da "Invalid command 'ThisDirectiveDoesNotExist'" en alpha.conf.
+Comprobación: alpha.test seguía funcionando porque no hice reload.
+Arreglo: restauré alpha.conf desde el backup alpha.s18-backup.
+Prueba: configtest Syntax OK, reload, y alpha y beta funcionan.
+Respuesta final: Porque Apache sigue usando la última configuración buena hasta el reload.

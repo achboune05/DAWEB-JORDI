@@ -1,0 +1,9 @@
+S09-Ayoub
+Archivo Fuente: /home/ayoub/daweb/site/index.html
+file:// muestra Island portal version 1 Created by Ayoub
+http://localhost muestra: Apache2 Ubuntu Defautl Page 
+Explicacion: El archivo esta en mi carpeta, pero aun no esta pulicado en Apache
+Respuesta Final: no guardar index.html en ~/daweb/site no lo publica en apache
+
+
+

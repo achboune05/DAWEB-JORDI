@@ -1,0 +1,7 @@
+S13 - Ayoub
+Objetivo: publicar dos páginas enlazadas.
+index.html: fuente ~/daweb/site/index.html -> publicado /var/www/html/index.html -> 200
+about.html: fuente ~/daweb/site/about.html -> publicado /var/www/html/about.html -> 200
+Enlaces: index -> about.html ("About this site"); about -> index.html ("Home").
+Los enlaces funcionan por http://localhost.
+Respuesta final: Porque si about.html no se copia a Apache, el enlace da 404.

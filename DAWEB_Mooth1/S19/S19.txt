@@ -1,0 +1,10 @@
+S19 - Ayoub
+Objetivo: proyecto final con las dos webs.
+Apache: active | configtest: Syntax OK | alpha y beta -> 127.0.0.1
+alpha/index.html: fuente ~/daweb/site/index.html -> /var/www/alpha/index.html -> 200
+alpha/about.html: fuente ~/daweb/site/about.html -> /var/www/alpha/about.html -> 200
+beta/index.html: fuente ~/daweb/beta/index.html -> /var/www/beta/index.html -> 200
+alpha/s19-missing.html -> 404
+alpha-access.log y beta-access.log: aparecen mis peticiones con su código.
+Revisión de compañero: (nombre y lo que comprobó)
+Respuesta final: Porque un 200 solo dice que respondió, no que sea la página correcta.

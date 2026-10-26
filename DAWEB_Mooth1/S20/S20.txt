@@ -1,0 +1,20 @@
+S20 - Ayoub
+Objetivo: backup y restauración de alpha.
+Antes: version 1
+Durante: version 2
+Después de restaurar: version 1
+Backup: ~/daweb/backups/alpha-v1.html (solo cubre el index de alpha).
+Respuesta final: Que el curl vuelve a mostrar version 1.
+
+
+¿Qué es el host? El equipo físico.
+
+¿Qué se ejecuta en la VM? El sistema operativo y el servidor web.
+
+¿Qué carpeta sirve alpha? La carpeta configurada en el servidor.
+
+¿Por qué guardar no es publicar? Porque guardar no significa mostrar en la web.
+
+¿Qué diferencia hay entre 404 y fallo de conexión? 404: página no encontrada. Fallo: no conecta al servidor.
+
+¿Qué petición demuestra la restauración? curl, que vuelve a mostrar la versión 1.

@@ -1,0 +1,9 @@
+S17 - Ayoub
+Objetivo: usar alpha.test y beta.test en Firefox.
+Línea añadida en /etc/hosts: 127.0.0.1 alpha.test beta.test
+getent alpha.test -> 127.0.0.1
+getent beta.test -> 127.0.0.1
+Firefox http://alpha.test -> Island portal
+Firefox http://beta.test -> Beta staff site
+Explicación: /etc/hosts dice a qué IP ir; Apache elige la web según el nombre.
+Respuesta final: No, solo funciona en el ordenador donde editas /etc/hosts.

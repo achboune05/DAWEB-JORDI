@@ -1,0 +1,5 @@
+S05-Ayoub
+Persistence: la carpeta sigue tras reiniciar 
+Internet: ubuntu.com carga
+Snapshot: 01-Ubuntu-installed
+Evidencias alojadas en: DAWEB_Month1

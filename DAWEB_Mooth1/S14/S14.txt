@@ -1,0 +1,8 @@
+S14 - Ayoub
+Objetivo: encontrar mis peticiones en el log de Apache.
+Log: /var/log/apache2/access.log
+Petición 1: GET /index.html?s14-ok -> 200
+Petición 2: GET /s14-missing.html -> 404
+Cada línea del log tiene: IP, fecha y hora, método GET, ruta y código.
+error.log: no salió nada relacionado con mis pruebas.
+Respuesta final: En el access.log.

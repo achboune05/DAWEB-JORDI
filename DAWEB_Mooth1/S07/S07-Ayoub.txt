@@ -1,0 +1,5 @@
+SO7-Ayoub
+Cliente: Firefox. Servidor: Apache (todavia no instaldo)
+File:// abre el archivo directamente. http:// se lo pide a un servidor 
+Respuesta final: Si dos programas en la misma VM pueden ser cliente y servidor
+

@@ -1,0 +1,4 @@
+S11 - Ayoub
+Probé curl -i y curl -I en / y los dos dieron 200. Con -i sale también la página y con -I solo las cabeceras.
+Pedí /s11-missing.html y salió 404, pero la portada seguía funcionando.
+Respuesta: No, el 404 solo quiere decir que ese archivo no existe. Apache sigue encendido.

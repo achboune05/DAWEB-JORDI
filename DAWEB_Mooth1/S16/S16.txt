@@ -1,0 +1,9 @@
+S16 - Ayoub
+Objetivo: segunda web beta.test en el mismo Apache.
+Archivo: /etc/apache2/sites-available/beta.conf
+DocumentRoot: /var/www/beta
+Host alpha.test -> 127.0.0.1 -> Island portal
+Host beta.test -> 127.0.0.1 -> Beta staff site
+Host unknown.test -> 127.0.0.1 -> Island portal (la web por defecto es alpha)
+Misma VM, mismo Apache, mismo puerto; cambia el nombre y la carpeta.
+Respuesta final: El nombre que se pide (Host): alpha.test o beta.test.

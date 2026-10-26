@@ -1,0 +1,6 @@
+S10 - Ayoub
+Fuente: /home/ayoub/daweb/site/index.html
+Publicado: /var/www/html/index.html
+Antes de copiar: Source Change no aprecia por http 
+Despues de copiar: Source Change sí aparace
+Respuesta final: El comando sudo cp publico el cambio 
