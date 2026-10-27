@@ -6,5 +6,5 @@ alpha/about.html: fuente ~/daweb/site/about.html -> /var/www/alpha/about.html ->
 beta/index.html: fuente ~/daweb/beta/index.html -> /var/www/beta/index.html -> 200
 alpha/s19-missing.html -> 404
 alpha-access.log y beta-access.log: aparecen mis peticiones con su código.
-Revisión de compañero: (nombre y lo que comprobó)
-Respuesta final: Porque un 200 solo dice que respondió, no que sea la página correcta.
+Revisión de compañero: Leiner comprobó la tabla, todo correcto
+Respuesta final: Eligio la fila 404 y le expliqué que apache responde pero el archivo no responde.

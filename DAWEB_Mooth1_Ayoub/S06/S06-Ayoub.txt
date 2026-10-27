@@ -1,0 +1,6 @@
+S06-Ayoub
+User:ayoub
+pwd: /home/ayoub/daweb
+Folders: site, beta, evidence, backups
+Exit anser: No, mdir sin mensaje significa que funciono.
+Nota: la ruta que se menciona en el documento (student) lo cambie por mi nombre (ayoub) por eso las rutas son /home/ayoub

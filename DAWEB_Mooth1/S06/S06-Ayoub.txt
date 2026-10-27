@@ -1,5 +1,0 @@
-S06-Ayoub
-User:ayoub
-pwd: /home/ayoub/daweb
-Folders: site, beta, evidence, backups
-Exit anser: No, mdir sin mensaje significa que funciono.
